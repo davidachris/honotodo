@@ -1,6 +1,5 @@
 import { Hono } from "hono";
 import { basicAuth } from "hono/basic-auth";
-import { todoGETJsonBodySchema } from "../schemas/todos.js";
 import { paramIdSchema } from "../schemas/general.js";
 import validator from "../libs/validator.js";
 
