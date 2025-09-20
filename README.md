@@ -1,3 +1,5 @@
+## Template Repo for Hono
+
 ```
 yarn install
 yarn run dev
